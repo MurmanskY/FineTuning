@@ -1,0 +1,4 @@
+.DS_Store
+*.pth
+dataset/*
+!dataset/.gitkeep
